@@ -9,7 +9,7 @@ const namePrefix = "Emoji Faces";
 const description = "Emoji faces includes mimics for different feelings.";
 const baseUri = "ipfs://QmXFzmpP4je6TqqwEJuWECKRiRcKYgYGwYZhsvd4SE4xab";
 
-const solanaMetadata = {
+const solanaMetadata = { 
   symbol: "YC",
   seller_fee_basis_points: 1000, // Define how much % you want from secondary market sales 1000 = 10%
   external_url: "https://www.youtube.com/c/hashlipsnft",
